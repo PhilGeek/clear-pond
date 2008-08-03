@@ -10,6 +10,8 @@ This is a TextMate theme based on Twilight. While I prefer dark themes, sometime
 
 <a href="http://www.flickr.com/photos/philgeek/2728925809/" title="Clear Pond by PhilGeek23, on Flickr"><img src="http://farm4.static.flickr.com/3209/2728925809_c5d80e80db_o.jpg" width="613" height="890" alt="Clear Pond" /></a>
 
+Blog post is [here](http://markelikalderon.com/blog/2008/08/03/clear-pond/).
+
 # TODO
 
 * Add support for quoting in mail
